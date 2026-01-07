@@ -5,4 +5,4 @@
 📊 Interested in Data Visualization & Business Insights  
 
 ### 🔗 Connect with me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: (http://linkedin.com/in/yogesz)
