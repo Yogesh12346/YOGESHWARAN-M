@@ -1,11 +1,4 @@
-## Hi 👋 I'm Yogesh
 
-🎯 Aspiring Data Analyst  
-💻 Skills: Python, SQL, Power BI, Excel  
-📊 Interested in Data Visualization & Business Insights  
-
-### Connect with me
-- LinkedIn: (http://linkedin.com/in/yogesz)
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
 
@@ -61,7 +54,7 @@ Excel-based analysis using formulas, pivot tables, and reporting.
 ---
 
 ## 📫 Connect With Me
-🔗 **LinkedIn:** *(add your LinkedIn link)*  
+🔗 **LinkedIn:** *(http://linkedin.com/in/yogesz)*  
 💻 **GitHub:** https://github.com/Yogesh12346  
 
 ---
